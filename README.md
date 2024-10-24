@@ -68,6 +68,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![Screenshot 2024-10-17 092406](https://github.com/user-attachments/assets/138ab0b5-eee5-4f9c-a073-9ab976f77a7c)
+![Screenshot 2024-10-24 085945](https://github.com/user-attachments/assets/6126272a-e086-413a-9adf-5e141c38fe90)
+
 ## RESULT:
 Thus the implementation of Diffe Hellman Algorithm executed successfully.
